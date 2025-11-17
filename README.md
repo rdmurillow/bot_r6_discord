@@ -23,3 +23,6 @@ Siga os passos abaixo para colocar o bot em funcionamento no seu servidor Discor
 ### Passo 1: Clone o Repositório
 
 ```bash
+```bash
+git clone <URL_DO_SEU_REPOSITORIO>
+cd R6-Competitive-Discord-Bot
